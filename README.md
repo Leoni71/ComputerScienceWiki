@@ -2,7 +2,7 @@
 
 This repo stores the notes and summarys of some topics I've learned. It helps me enforce the understanding of these concepts and it's also convenient to review them in a well-organized form.
 
-[C](https://github.com/Leoni71/Study_Log/wiki/C)
+[Learn C from Scratch to giving it up](https://github.com/Leoni71/Study_Log/wiki/C)
 
 [Git](https://github.com/Leoni71/Study_Log/wiki/Git)
 
