@@ -6,7 +6,7 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 
 [C++ Tutorial](https://github.com/Leoni71/Learning-Path/wiki/.cpp)
 
-[Git](https://github.com/Leoni71/Study_Log/wiki/Git)
+[Git Entry Level](https://github.com/Leoni71/Study_Log/wiki/Git)
 
 [Go](https://github.com/Leoni71/Study_Log/wiki/Go)
 
