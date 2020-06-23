@@ -4,6 +4,8 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 
 [Learn C from Scratch to giving it up](https://github.com/Leoni71/Study_Log/wiki/C)
 
+[C++ Tutorial](https://github.com/Leoni71/Learning-Path/wiki/.cpp)
+
 [Git](https://github.com/Leoni71/Study_Log/wiki/Git)
 
 [Go](https://github.com/Leoni71/Study_Log/wiki/Go)
