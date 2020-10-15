@@ -10,8 +10,6 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 
 [Go](https://github.com/Leoni71/Study_Log/wiki/Go)
 
-[Jupyter](https://github.com/Leoni71/Study_Log/wiki/Jupyter)
-
 [Latex](https://github.com/Leoni71/Study_Log/wiki/Latex)
 
 [Linux](https://github.com/Leoni71/Study_Log/wiki/Linux)
