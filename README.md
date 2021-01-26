@@ -1,4 +1,3 @@
-# Study_Log
 
 This repo stores the notes and summarys of some topics I've learned. It helps me reinforce the understanding of these concepts and it's also convenient to review them in a well-organized form.
 
