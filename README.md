@@ -5,6 +5,14 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 
 [Computer Science Basic Knowledge](https://github.com/Leoni71/Learning-Path/wiki/Computer-Science-Basics)
 
+[Computer Networks]()
+
+[Operating System]()
+
+[Algorithms & Data Structures]()
+
+[Databases]()
+
 ## Programming Languages
 
 [C](https://github.com/Leoni71/Study_Log/wiki/C)
