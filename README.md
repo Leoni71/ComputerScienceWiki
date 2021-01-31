@@ -1,5 +1,5 @@
 
-This repo stores the notes and summarys of some topics I've learned. It helps me reinforce the understanding of these concepts and it's also convenient to review them in a well-organized form.
+This repo stores the notes and summary of some topics I've learned. It helps me reinforce the understanding of these concepts and it's convenient to review them in a well-organized form.
 
 ## Fundamentals
 
@@ -19,7 +19,9 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 
 [C++](https://github.com/Leoni71/Learning-Path/wiki/.cpp)
 
-[Python Tips](https://github.com/Leoni71/Study_Log/wiki/Python-Tips)
+[Java]()
+
+[Python](https://github.com/Leoni71/Study_Log/wiki/Python-Tips)
 
 [Go](https://github.com/Leoni71/Study_Log/wiki/Go)
 
@@ -30,4 +32,12 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 [Linux](https://github.com/Leoni71/Study_Log/wiki/Linux)
 
 [Git](https://github.com/Leoni71/Study_Log/wiki/Git)
+
+## Techniques
+
+[Regular Expression]()
+
+
+
+
 
