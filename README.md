@@ -5,7 +5,7 @@ This repo stores the notes and summary of some topics I've learned. It helps me 
 
 [Computer Science Basic Knowledge](https://github.com/Leoni71/Learning-Path/wiki/Computer-Science-Basics)
 
-[Computer Networks]()
+[Computer Networks](https://github.com/Leoni71/ComputerScienceWiki/wiki/Computer-Network)
 
 [Operating System]()
 
