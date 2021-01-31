@@ -3,7 +3,7 @@ This repo stores the notes and summarys of some topics I've learned. It helps me
 
 [Computer Science Basic Knowledge](https://github.com/Leoni71/Learning-Path/wiki/Computer-Science-Basics)
 
-[Learn C from Scratch to giving it up](https://github.com/Leoni71/Study_Log/wiki/C)
+[C](https://github.com/Leoni71/Study_Log/wiki/C)
 
 [C++](https://github.com/Leoni71/Learning-Path/wiki/.cpp)
 
