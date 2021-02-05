@@ -27,11 +27,14 @@ This repo stores the notes and summary of some topics I've learned. It helps me 
 
 ## Tools
 
+[Git](https://github.com/Leoni71/Study_Log/wiki/Git)
+
+[Vi/Vim](https://github.com/Leoni71/ComputerScienceWiki/wiki/Vi-Vim)
+
 [Latex](https://github.com/Leoni71/Study_Log/wiki/Latex)
 
 [Linux](https://github.com/Leoni71/Study_Log/wiki/Linux)
 
-[Git](https://github.com/Leoni71/Study_Log/wiki/Git)
 
 ## Techniques
 
